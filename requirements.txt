@@ -1,0 +1,13 @@
+sortedcontainers
+pytest
+requests
+PyHamcrest
+PyYAML
+allure-pytest
+protobuf
+googleapis-common-protos
+grpcio
+grpcio-tools
+moviepy
+emoji
+dialog_api

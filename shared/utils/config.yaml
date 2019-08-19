@@ -1,0 +1,12 @@
+test: "grpc-test.transmit.im"
+
+pre-ee: "ee.transmit.im"
+
+stage: "ee-stage.transmit.im"
+
+dev1: "dev-1.transmit.im"
+
+dev2: "dev-2.transmit.im"
+
+
+

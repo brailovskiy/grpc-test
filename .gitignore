@@ -1,0 +1,10 @@
+.pytest_cache/
+.idea/
+tests/.pytest_cache/
+.venv/
+logs/allure-results/*
+__pycache__/
+tests_functional/tests_files/textfile.txt
+venv/
+.DS_Store
+.idea/misc.xml
